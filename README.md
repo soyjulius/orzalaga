@@ -8,9 +8,6 @@
 <a href="https://www.linkedin.com/in/orzalaga/">
   <img align="left" alt="orzalaga LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://open.spotify.com/user/orzalaga">
-  <img align="left" alt="Orzalaga Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
 <a href="https://instagram.com/orzalaga">
   <img align="left" alt="Orzalaga Instagram" width="22px" src="https://user-images.githubusercontent.com/2185794/152667993-e2b9da41-0b1b-4387-acb6-b80910f303c6.svg" />
 </a>
